@@ -1,0 +1,43 @@
+.fontfamily{
+    font-family:Georgia, 'Times New Roman', Times, serif;    
+}
+.fontsize{
+    font-size: 23px;
+}
+.backgroundcolor{
+    background-color: rgb(205, 205, 205);
+}
+.font{
+    font-size: 26px;
+    font-weight: bold;
+}
+.color{
+    color: rgb(146, 88, 88);
+}
+.fontt{
+    font-size: 18px;
+}
+.creamycuddle{
+    width: 100%;
+}
+.portimg{
+    width: 90%;
+    height: auto;
+}
+.cardc{
+    margin-left: 80px;
+}
+.icone{
+    font-size: 25px;
+}
+.imgset{
+    margin-left: 100px;
+}
+.imgone{
+    width: 100%;
+    
+}
+.imgtwoo{
+    width: 50%;
+    height: 50%;
+}
